@@ -1,8 +1,15 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home";
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <h1 class="display-4">FAST Equipment Tool</h1>
+    <p class="lead">Welcome to the FAST Equipment Tool application!</p>
+    <p>Here, students and professors can easily request to borrow IT equipment.</p>
+    <p>Use the navigation menu above to explore:</p>
+    <ul class="list-unstyled">
+        <li><a class="btn btn-primary" href="@Url.Action("AllEquipment", "Equipment")">View All Equipment</a></li>
+        <li><a class="btn btn-success" href="@Url.Action("AvailableEquipment", "Equipment")">Check Available Equipment</a></li>
+        <li><a class="btn btn-warning" href="@Url.Action("Request", "Equipment")">Request IT Equipment</a></li>
+    </ul>
 </div>
