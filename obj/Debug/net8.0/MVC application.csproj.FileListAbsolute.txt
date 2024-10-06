@@ -1,11 +1,15 @@
 C:\sem 5\enterprise\MVC application\bin\Debug\net8.0\appsettings.Development.json
 C:\sem 5\enterprise\MVC application\bin\Debug\net8.0\appsettings.json
-C:\sem 5\enterprise\MVC application\bin\Debug\net8.0\MVC application.staticwebassets.runtime.json
 C:\sem 5\enterprise\MVC application\bin\Debug\net8.0\MVC application.exe
 C:\sem 5\enterprise\MVC application\bin\Debug\net8.0\MVC application.deps.json
 C:\sem 5\enterprise\MVC application\bin\Debug\net8.0\MVC application.runtimeconfig.json
 C:\sem 5\enterprise\MVC application\bin\Debug\net8.0\MVC application.dll
 C:\sem 5\enterprise\MVC application\bin\Debug\net8.0\MVC application.pdb
+C:\sem 5\enterprise\MVC application\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\sem 5\enterprise\MVC application\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\sem 5\enterprise\MVC application\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\sem 5\enterprise\MVC application\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC application.csproj.AssemblyReference.cache
 C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC application.GeneratedMSBuildEditorConfig.editorconfig
 C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC application.AssemblyInfoInputs.cache
 C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC application.AssemblyInfo.cs
@@ -13,6 +17,14 @@ C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC application.csproj.Core
 C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC application.MvcApplicationPartsAssemblyInfo.cache
 C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC application.RazorAssemblyInfo.cache
 C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC application.RazorAssemblyInfo.cs
+C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC application.sourcelink.json
+C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC appl.6334DFB4.Up2Date
+C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC application.dll
+C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\refint\MVC application.dll
+C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC application.pdb
+C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC application.genruntimeconfig.cache
+C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\ref\MVC application.dll
+C:\sem 5\enterprise\MVC application\bin\Debug\net8.0\MVC application.staticwebassets.runtime.json
 C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\staticwebassets.build.json
 C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\staticwebassets.development.json
 C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\staticwebassets\msbuild.MVC application.Microsoft.AspNetCore.StaticWebAssets.props
@@ -23,8 +35,3 @@ C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\staticwebassets.pack.json
 C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\scopedcss\bundle\MVC application.styles.css
 C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\scopedcss\projectbundle\MVC application.bundle.scp.css
-C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC application.dll
-C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\refint\MVC application.dll
-C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC application.pdb
-C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\MVC application.genruntimeconfig.cache
-C:\sem 5\enterprise\MVC application\obj\Debug\net8.0\ref\MVC application.dll
