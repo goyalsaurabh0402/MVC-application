@@ -57,6 +57,17 @@ namespace MVC_application.Controllers
 
     return View(availableEquipment);
 }
+    public IActionResult Requests()
+{
+    var requests = new List<EquipmentRequest>
+    {
+        new EquipmentRequest { Id = 1, Name = "John", Role = "Student", EquipmentType = EquipmentType.Laptop },
+        new EquipmentRequest { Id = 2, Name = "Jane", Role = "Professor", EquipmentType = EquipmentType.Tablet }
+    };
+
+    return View(requests);
+}
+
 
     }
 }

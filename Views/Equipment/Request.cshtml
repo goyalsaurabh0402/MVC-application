@@ -1,0 +1,28 @@
+@model IEnumerable<EquipmentRequest>
+
+<h1>Equipment Requests</h1>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Role</th>
+            <th>Equipment Type</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var request in Model)
+        {
+            <tr>
+                <td>@request.Name</td>
+                <td>@request.Role</td>
+                <td>@request.EquipmentType</td>
+                <td>
+                    <button class="btn btn-success">Accept</button>
+                    <button class="btn btn-danger">Deny</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
