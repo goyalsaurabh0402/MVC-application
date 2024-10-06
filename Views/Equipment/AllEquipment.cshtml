@@ -1,6 +1,6 @@
 @model IEnumerable<Equipment>
 
-<h1>All Equipment</h1>
+<h1>Available Equipment</h1>
 
 <table class="table table-striped">
     <thead>
@@ -14,11 +14,11 @@
     <tbody>
         @foreach (var equipment in Model)
         {
-            <tr class="@(equipment.Available ? "table-success" : "table-danger")">
+            <tr class="table-success">
                 <td>@equipment.Id</td>
                 <td>@equipment.Type</td>
                 <td>@equipment.Description</td>
-                <td>@(equipment.Available ? "Yes" : "No")</td>
+                <td>Yes</td>
             </tr>
         }
     </tbody>

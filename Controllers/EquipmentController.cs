@@ -44,6 +44,19 @@ namespace MVC_application.Controllers
 
     return View(equipmentList);
 }
+    public IActionResult AvailableEquipment()
+{
+    var equipmentList = new List<Equipment>
+    {
+        new Equipment { Id = 1, Type = "Laptop", Description = "Dell XPS 13", Available = true },
+        new Equipment { Id = 3, Type = "Tablet", Description = "iPad Pro", Available = true }
+    };
+
+    // Filter only available equipment
+    var availableEquipment = equipmentList.Where(e => e.Available).ToList();
+
+    return View(availableEquipment);
+}
 
     }
 }
